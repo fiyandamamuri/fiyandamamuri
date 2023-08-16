@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **fiyandamamuri/fiyandamamuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Fiyanda Ma'muri**
+
+Saya seorang **Mahasiswa Teknik Informatika** di [Universitas Pamulang](https://unpam.ac.id/)
+
+Saat ini saya merupakan Bangkit Cohort in Machine Learning Path
