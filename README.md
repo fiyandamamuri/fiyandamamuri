@@ -21,4 +21,4 @@ Perkenalkan nama saya **Fiyanda Ma'muri**
 
 Saya seorang **Mahasiswa Teknik Informatika** di [Universitas Pamulang](https://unpam.ac.id/)
 
-Saat ini saya merupakan Bangkit Cohort in Machine Learning Path
+Saat ini saya merupakan Bangkit Cohort Batch 2 in Machine Learning Path
