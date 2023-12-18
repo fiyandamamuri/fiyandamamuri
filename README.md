@@ -1,24 +1,5 @@
+# Hi All ! 
 
-
-<!--
-**fiyandamamuri/fiyandamamuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Halo semua! 
-
-Perkenalkan nama saya **Fiyanda Ma'muri**
-
-Saya seorang **Mahasiswa Teknik Informatika** di [Universitas Pamulang](https://unpam.ac.id/)
-
-Saat ini saya merupakan Bangkit Cohort 2023 Batch 2 in Machine Learning Path
+- 🔭 I’m currently working on Kulinerin project capstone at Bangkit as Machine Learning team.
+- 🌱 I’m currently learning at [Universitas Pamulang](https://unpam.ac.id/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/fiyandamamuri/)
