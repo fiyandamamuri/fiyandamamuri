@@ -1,4 +1,4 @@
-## 🧑‍💻 Fiyanda Ma'muri
+## 👩🏻‍💻 Fiyanda Ma'muri
 
 **` Junior Data Scientist `**
 
