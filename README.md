@@ -14,3 +14,5 @@ Hello! I am Fiyanda Ma'muri, a passionate and dedicated Data Science Engineer wi
 ### Stats
 ![Fiyanda Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiyandamamuri&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fiyandamamuri&label=Profile%20views&color=0e75b6&style=flat" alt="fiyandamamuri" /> </p>
+
