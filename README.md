@@ -2,7 +2,7 @@
 
 **` Junior Data Scientist `**
 
-Hello! I am Fiyanda Ma'muri, a passionate and dedicated Data Science Engineer with expertise in Data and Machine Learning. I am currently pursuing my undergraduate degree in Informatics Engineering at Pamulang University. With a strong foundation in Python, SQL, data analysis tools and libraries, I am able to collect, clean, analyze, and visualize data to generate useful insights for decision making. I am also involved in developing simple machine learning models and ensuring the data used is accurate. My focus is to continue learning and improving my skills in programming, statistics, and data analysis.
+Hello! I am Fiyanda Ma'muri, Freshgraduate with passionate and dedicated Data Scientist with expertise in Data and Machine Learning. With a strong foundation in Python, SQL, data analysis tools and libraries, I am able to collect, clean, analyze, and visualize data to generate useful insights for decision making. I am also involved in developing machine learning models and ensuring the data used is accurate. My focus is to continue learning and improving my skills in programming, statistics, and data analysis.
 
 
 <a href="https://www.linkedin.com/in/fiyandamamuri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/fiyandamamuri"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="mailto:fiyandamamuri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
