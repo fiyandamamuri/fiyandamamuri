@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Fiyanda Ma'muri
 
-**` Data Scientist `**
+**` Data Analytics, Machine Learning & Deep Learning Enthusiast `**
 
 Hello! I am Fiyanda Ma'muri, Freshgraduate with passionate and dedicated Data Scientist with expertise in Data and Machine Learning. With a strong foundation in Python, SQL, data analysis tools and libraries, I am able to collect, clean, analyze, and visualize data to generate useful insights for decision making. I am also involved in developing machine learning models and ensuring the data used is accurate. My focus is to continue learning and improving my skills in programming, statistics, and data analysis.
 
